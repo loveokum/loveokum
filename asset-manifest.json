@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My-portolio/static/css/main.0b5754b8.chunk.css",
+    "main.js": "/My-portolio/static/js/main.56f491e9.chunk.js",
+    "main.js.map": "/My-portolio/static/js/main.56f491e9.chunk.js.map",
+    "runtime-main.js": "/My-portolio/static/js/runtime-main.83020894.js",
+    "runtime-main.js.map": "/My-portolio/static/js/runtime-main.83020894.js.map",
+    "static/js/2.0a0f50f3.chunk.js": "/My-portolio/static/js/2.0a0f50f3.chunk.js",
+    "static/js/2.0a0f50f3.chunk.js.map": "/My-portolio/static/js/2.0a0f50f3.chunk.js.map",
+    "static/js/3.b1b75ce5.chunk.js": "/My-portolio/static/js/3.b1b75ce5.chunk.js",
+    "static/js/3.b1b75ce5.chunk.js.map": "/My-portolio/static/js/3.b1b75ce5.chunk.js.map",
+    "index.html": "/My-portolio/index.html",
+    "static/css/main.0b5754b8.chunk.css.map": "/My-portolio/static/css/main.0b5754b8.chunk.css.map",
+    "static/js/2.0a0f50f3.chunk.js.LICENSE.txt": "/My-portolio/static/js/2.0a0f50f3.chunk.js.LICENSE.txt",
+    "static/media/blog2.c34f80ec.jpg": "/My-portolio/static/media/blog2.c34f80ec.jpg",
+    "static/media/hireme3.b17878cd.jpg": "/My-portolio/static/media/hireme3.b17878cd.jpg",
+    "static/media/Home.css": "/My-portolio/static/media/laptop2.c5e72d38.jpg",
+    "static/media/logo9.4018a612.png": "/My-portolio/static/media/logo9.4018a612.png",
+    "static/media/loveth.4b97b9f5.jpg": "/My-portolio/static/media/loveth.4b97b9f5.jpg",
+    "static/media/project3.0ace3b68.jpeg": "/My-portolio/static/media/project3.0ace3b68.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83020894.js",
+    "static/js/2.0a0f50f3.chunk.js",
+    "static/css/main.0b5754b8.chunk.css",
+    "static/js/main.56f491e9.chunk.js"
+  ]
+}
