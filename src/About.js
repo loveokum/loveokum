@@ -1,6 +1,7 @@
 import React from "react"
 import './About.css'
 import aboutImg from "./image/loveth.jpg"
+import myPDF from "./files/Love Okum Resume.pdf"
 
 
 function About(){
@@ -24,22 +25,22 @@ function About(){
                             About Me
                         </h1>
                         <div className="about__meta">
-                            <p className="about__text p__color">
-                                Hello, I am Love Okum, and I am a Software Engineer. I have worked on a wide variety of projects that have allowed me to put what I’ve learnt in School and during my personal development into use in a practical sense.
-                                I am part of a tech community that has helped me in improving my skills and given me the opportunity to interact with fellow developers and it is really exciting to see the portfolio grow.
+                            <p className="about__text p__color"> 
+                                Hello, I am Love Okum, and I am a Software Engineer. I have worked on a wide variety of projects, with different companies and I am also a member of amazing
+                                tech communities that has contributed to my skill development and has also given me the opportunity to interact with fellow developers.
                             </p>
                             <p className="about__text p__color">
                                 I have good knowledge and understanding of programming languages such as Java, Python, Javascript  and also a good understanding of Frameworks such as Springboot, Django, Flask, React.
-                                I am also familiar with some Atlassian Tools like Jira and Confluence.I pride myself on being detail-oriented, analytical, and driven.
+                                I am also familiar with some Atlassian Tools like Jira and Confluence.I pride myself on being detail-oriented and driven.
                                 I have the ability to create back-end code that will add utility to everything the front-end designer creates.
                             </p>
-                            <p className="about__text p__color">
+                            <p className="about__text p__color"> 
                                 I’m passionate about the impact my skills can have in the real world, and firmly believe that I can create innovative solutions to business processes and problems which will ultimately lead to a better user experience.
                                 My ambition is to reach the very top of my profession and to work with other leading developers in this field. On a personal level I am able to both give and take feedback. Furthermore I am committed to constantly improving myself by learning new technologies and frameworks.
                             </p>
 
                             <div className="about__button d__flex align__items__center">
-                                <a href="#"> <button className="about btn pointer"> Download CV</button></a>
+                                <a href={myPDF} download="My_File.pdf"> <button className="about btn pointer"> Download CV</button></a>
                                 <a href="#Contact"> <button className="about btn pointer"> Hire Me</button></a>
                             </div>
                         </div>

@@ -9,11 +9,11 @@ function Blog(){
             <div className="heading">
 
                 <h1 className="heading">
-                    Latest News
+                    Latest News and Updates
                 </h1>
 
                 <p className="heading p__color">
-                    I have written amazing articles and social media contributions.
+                    Important links, information and articles I think are relevant.
                 </p>
 
                 <p className="heading p__color">
@@ -43,9 +43,9 @@ function Blog(){
                             </div>
 
                             <div className="Blog__meta absolute">
-                                <h5 className="project__text">Blogging</h5>
-                                <h4 className="project__text">Always blogging about amazing stuff</h4>
-                                <a href="#" className="blog project__btn btn"> Read More</a>
+                                <h5 className="project__text">How to send emails from a React application without a backend(server)</h5>
+                                <h4 className="project__text">Using EmailJS</h4>
+                                <a href="https://medium.com/@patienceadajah/how-to-send-emails-from-a-react-application-without-a-backend-server-1dd8718ceedd/" className="blog project__btn btn" target="_blank" rel="noreferrer"> Learn More</a>
                             </div>
 
                         </div>
@@ -71,9 +71,9 @@ function Blog(){
                             </div>
 
                             <div className="Blog__meta absolute">
-                                <h5 className="project__text">Blogging</h5>
-                                <h4 className="project__text">Always blogging about amazing stuff</h4>
-                                <a href="#" className="blog project__btn btn"> Read More</a>
+                                <h5 className="project__text"> DevDocs combines multiple API documentations in a fast, organized, and searchable interface.</h5>
+                                <h4 className="project__text">Go to DevDocs</h4>
+                                <a href="https://devdocs.io/" className="blog project__btn btn" target="_blank" rel="noreferrer"> Learn More</a>
                             </div>
 
                         </div>
@@ -101,9 +101,9 @@ function Blog(){
                             </div>
 
                             <div className="Blog__meta absolute">
-                                <h5 className="project__text">Blogging</h5>
-                                <h4 className="project__text">Always blogging about amazing stuff</h4>
-                                <a href="#" className="blog project__btn btn"> Read More</a>
+                                <h5 className="project__text">To combine multiple pdf documents together</h5>
+                                <h4 className="project__text">Visit Webpage</h4>
+                                <a href="https://media-tools.perbility.de/" className="blog project__btn btn" target="_blank" rel="noreferrer"> Learn More</a>
                             </div>
 
                         </div>
